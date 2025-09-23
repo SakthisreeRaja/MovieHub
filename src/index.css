@@ -1,0 +1,27 @@
+.card{
+  margin-left: 300px;
+  border: 1px solid #4b5362 ;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 50px;
+  padding-left: 50px;
+  background-color:#31363f ;
+  color:white;
+}
+.Card-Container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+body{
+  background-color: black;
+}
+button{
+  background-color: transparent;
+  border: none;
+  font-size: larger;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
